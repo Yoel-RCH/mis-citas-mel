@@ -1,0 +1,15 @@
+{
+  "name": "Mis Citas · Mel",
+  "short_name": "Citas · Mel",
+  "description": "La agenda de manicura de Melissa, hecha con cariño.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7EFED",
+  "theme_color": "#F7EFED",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
